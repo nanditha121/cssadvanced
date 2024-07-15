@@ -471,3 +471,6 @@ Code.html
 </body>
 </html>
 ```
+Output:
+
+![o1](https://github.com/user-attachments/assets/eba45fc4-fe29-464a-adc3-a61a7aa84d15)

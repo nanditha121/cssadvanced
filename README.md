@@ -476,6 +476,7 @@ Code.html
 ```
 output
 ```
-![alt text](o1.png)
+![o1](https://github.com/user-attachments/assets/830d7708-cd11-46ef-8d9e-c96a9c81dbb8)
+
 
 
